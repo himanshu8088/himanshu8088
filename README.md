@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu8088" alt="himanshu8088" /> </p>
 
-- 🔭 I’m currently working on **Flight booking web application**
+- 🔭 I’m currently working on **Shipping Web Application** at Cimpress, India. Previously built **Flight Booking Web Application** at Tavisca Solution Pvt. Ltd, India(now J.P. Morgan Chase)
 
 - 👯 I’m looking to collaborate on **open source and community projects**
 
-- 💬 Ask me about **C#, Python, R, NodeJS, JavaScript, TypeScript, HTML, CSS, AngularJS, CassandraDB, MongoDB, RabbitMQ, Consul, Docker, AWS S3, AWS Lambda, Shell Scripting, WebRTC, Tensorflow**
+- 💬 Ask me about **C#, GoLang, Python, R, NodeJS, JavaScript, TypeScript, HTML, CSS, React, Angular, CassandraDB, MongoDB, RabbitMQ, Consul, Docker, Shell Scripting, WebRTC, Tensorflow, Terraform, AWS, Kubernetes**
 
 - 📫 How to reach me **https://www.linkedin.com/in/himanshu7077**
 
